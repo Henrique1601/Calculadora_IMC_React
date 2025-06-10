@@ -14,7 +14,7 @@ Uma simples calculadora de imc...
 Clone o projeto
 
 ```bash
-  git clone  https://github.com/Henrique1601/imc_react
+  git clone  https://github.com/Henrique1601/Calculadora_IMC_React
 ```
 
 Entre no diretório do projeto backend e frontend e Instale as dependências
